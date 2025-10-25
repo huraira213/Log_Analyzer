@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-10-12",
+        "time": "13:00:02",
+        "level": "INFO",
+        "message": "User login success"
+    },
+    {
+        "date": "2025-10-12",
+        "time": "13:10:44",
+        "level": "ERROR",
+        "message": "Database timeout"
+    },
+    {
+        "date": "2025-10-12",
+        "time": "14:05:11",
+        "level": "WARNING",
+        "message": "Disk space low"
+    },
+    {
+        "date": "2025-10-12",
+        "time": "14:07:01",
+        "level": "INFO",
+        "message": "File uploaded successfully"
+    },
+    {
+        "date": "2025-10-12",
+        "time": "15:00:33",
+        "level": "ERROR",
+        "message": "User authentication failed"
+    }
+]
