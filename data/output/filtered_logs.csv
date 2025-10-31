@@ -1,0 +1,6 @@
+id,date,time,level,message
+1,2025-10-12,13:00:02,INFO,User login success
+2,2025-10-12,14:07:01,INFO,File uploaded successfully
+3,2025-10-12,13:10:44,ERROR,Database timeout
+4,2025-10-12,15:00:33,ERROR,User authentication failed
+5,2025-10-12,14:05:11,WARNING,Disk space low

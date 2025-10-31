@@ -1,0 +1,22 @@
+{
+    "total_entries": 10,
+    "level_counts": {
+        "INFO": 5,
+        "WARNING": 3,
+        "ERROR": 2
+    },
+    "top_errors": [
+        {
+            "date": "2025-10-27",
+            "time": "13:10:07",
+            "level": "ERROR",
+            "message": "  Unable to connect to database"
+        },
+        {
+            "date": "2025-10-27",
+            "time": "13:10:07",
+            "level": "ERROR",
+            "message": "  Unable to connect to database"
+        }
+    ]
+}
